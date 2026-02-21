@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-neuro-bridge-service-api-vuv",
+  "version": "1.0.0",
+  "description": "Container orchestration system",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "neuro-bridge-service-api-vuv"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-neuro-bridge-service-api-vuv.git"
+  }
+}
